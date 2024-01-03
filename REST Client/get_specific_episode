@@ -1,0 +1,2 @@
+GET http://localhost:3000/api/tvshows/1/seasons/1/episodes/2
+Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImFiZWx1d3UiLCJpYXQiOjE2OTc2MTI5NzMsImV4cCI6MTY5NzYxMzg3M30.YuD0kDpVSzE9_AVpyuoRkKxEdTM0c4Arav_h2I3nYa0
